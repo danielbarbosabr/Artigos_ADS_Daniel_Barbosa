@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://logodownload.org/wp-content/uploads/2018/07/universidade-anhanguera-logo.png" alt="Logo Anhanguera" width="180"/>?
+  <img src="https://logodownload.org/wp-content/uploads/2018/07/universidade-anhanguera-logo.png" alt="Logo Anhanguera" width="180"/>
   
   <h1>🎓 Análise e Desenvolvimento de Sistemas</h1>
   <h3>📖 Compilado de Estudos • Resumos • Anotações</h3>
