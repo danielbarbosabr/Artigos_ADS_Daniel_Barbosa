@@ -1,69 +1,78 @@
 <div align="center">
-  <img src="https://logodownload.org/wp-content/uploads/2018/07/universidade-anhanguera-logo.png" alt="Logo Anhanguera" width="180"/>
 
-  <h1>🎓 Análise e Desenvolvimento de Sistemas</h1>
-  <h3>📖 Compilado de Estudos • Resumos • Anotações</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=200&section=header&text=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Compilado%20de%20Estudos%20%E2%80%A2%20Resumos%20%E2%80%A2%20Anota%C3%A7%C3%B5es&descSize=16&descAlignY=58"/>
 
-  <p>
-    Repositório criado para reunir os materiais desenvolvidos durante minha graduação em
-    <strong>ADS na Faculdade Anhanguera</strong>, acompanhando minha evolução acadêmica.
-  </p>
+<img src="https://logodownload.org/wp-content/uploads/2018/07/universidade-anhanguera-logo.png" alt="Logo Anhanguera" width="180"/>
 
-  <p>
-    <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge&logo=github"/>
-    <img src="https://img.shields.io/badge/Curso-ADS-blue?style=for-the-badge&logo=bookstack"/>
-    <img src="https://img.shields.io/badge/Faculdade-Anhanguera-red?style=for-the-badge&logo=academia"/>
-  </p>
+<h2>🎓 Bem-vindo ao meu diário acadêmico!</h2>
+
+<p>
+  Aqui eu reúno tudo o que aprendo na minha graduação em
+  <strong>Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera</strong>:
+  resumos, anotações e materiais de apoio, organizados para estudar melhor
+  e acompanhar minha evolução ao longo do curso.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Curso-ADS-blue?style=for-the-badge&logo=bookstack"/>
+  <img src="https://img.shields.io/badge/Faculdade-Anhanguera-red?style=for-the-badge&logo=academia"/>
+</p>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:8A2BE2&height=4"/>
 
-## ✨ Sobre
+## ✨ Sobre o projeto
 
-> 🎯 Centralizar resumos, anotações e materiais de apoio das disciplinas do curso de **Análise e Desenvolvimento de Sistemas**, servindo como portfólio acadêmico e fonte de consulta.
+> 🎯 Este repositório nasceu para **centralizar os estudos do curso** em um só lugar. Ele serve como meu portfólio acadêmico e também como fonte de consulta para quem estiver estudando os mesmos temas.
 
-👨‍💻 **Autor:** Daniel Barbosa de Lima
-🏫 **Instituição:** Faculdade Anhanguera – Sumaré/SP
-📘 **Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas
+| | |
+|:---|:---|
+| 👨‍💻 **Autor** | Daniel Barbosa de Lima |
+| 🏫 **Instituição** | Faculdade Anhanguera – Sumaré/SP |
+| 📘 **Curso** | Tecnologia em Análise e Desenvolvimento de Sistemas |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:8A2BE2&height=4"/>
 
-## 🗂️ Índice
+## 🗂️ Navegue por aqui
 
-- [Sobre](#-sobre)
-- [Disciplinas](#-disciplinas)
-- [Como usar](#-como-usar)
-- [Contato](#-contato)
+- [✨ Sobre o projeto](#-sobre-o-projeto)
+- [📚 Disciplinas](#-disciplinas)
+- [🚀 Como aproveitar](#-como-aproveitar)
+- [📬 Vamos conversar?](#-vamos-conversar)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:8A2BE2&height=4"/>
 
 ## 📚 Disciplinas
 
-| 🗓️ Semestre | 📘 Disciplinas | 📂 Material |
-|:---:|:---|:---:|
-| 1º | Em breve | ⏳ |
-| 2º | • Arquitetura Computacional<br>• Engenharia de Software<br>• Sistemas Operacionais | ⏳ |
-| 3º | Em breve | ⏳ |
-| 4º | Em breve | ⏳ |
-| 5º | Em breve | ⏳ |
+Os conteúdos são organizados por semestre e vão sendo adicionados conforme eu avanço no curso.
 
-> 💡 *Os conteúdos serão adicionados ao longo da graduação. Quando um material for publicado, troque o ⏳ por um link: `[📂 Acessar](pasta/)`.*
+| 🗓️ Semestre | 📘 Disciplinas |
+|:---:|:---|
+| **1º** | Em breve |
+| **2º** | • Arquitetura Computacional<br>• Engenharia de Software<br>• Sistemas Operacionais |
+| **3º** | Em breve |
+| **4º** | Em breve |
+| **5º** | Em breve |
 
----
+> 💡 *Fique de olho: o repositório é atualizado ao longo de toda a graduação!*
 
-## 🚀 Como usar
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:8A2BE2&height=4"/>
 
-1. Navegue até a pasta da disciplina desejada.
-2. Leia os resumos e anotações em Markdown.
-3. Sugestões e correções são bem-vindas: abra uma **Issue** ou me chame!
+## 🚀 Como aproveitar
 
----
+1. 📂 Abra a pasta da disciplina que você quer estudar.
+2. 📖 Leia os resumos e anotações em Markdown.
+3. 💬 Achou algum erro ou tem uma sugestão? Abra uma **Issue** ou me chame, vou adorar ouvir!
 
-## 📬 Contato
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:8A2BE2&height=4"/>
+
+## 📬 Vamos conversar?
 
 <div align="center">
 
-💬 *Gostou do material ou quer trocar uma ideia sobre tecnologia e estudos? Me chama!*
+💬 *Gostou do material, quer tirar uma dúvida ou trocar uma ideia sobre tecnologia e estudos? É só me chamar por qualquer um dos canais abaixo!*
 
 <br/>
 
@@ -108,6 +117,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=100&section=footer"/>
+⭐ *Se este repositório te ajudou, deixe uma estrela!*
 
 </div>
