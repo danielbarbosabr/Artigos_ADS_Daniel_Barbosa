@@ -80,7 +80,7 @@ Os conteúdos são organizados por semestre e vão sendo adicionados conforme eu
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/daniel-barbosa-4181b4266/">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/><br/>
         <sub><b>LinkedIn</b></sub>
       </a>
     </td>
@@ -113,10 +113,10 @@ Os conteúdos são organizados por semestre e vão sendo adicionados conforme eu
 
 <br/>
 
-<sub>📧 dannybarbosalimabr@gmail.com</sub>
-
-<br/><br/>
-
 ⭐ *Se este repositório te ajudou, deixe uma estrela!*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=140&section=footer&text=Obrigado%20pela%20visita!&fontSize=26&fontColor=ffffff&fontAlignY=65"/>
 
 </div>
