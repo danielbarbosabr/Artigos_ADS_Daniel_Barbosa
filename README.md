@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://images.seeklogo.com/logo-png/49/1/faculdade-anhanguera-logo-png_seeklogo-499225.png" alt="Logo Anhanguera" width="180"/>
-
+  <img src="https://images.seeklogo.com/logo-png/49/1/faculdade-anhanguera-logo-png_seeklogo-499225.png" alt="Logo Anhanguera" width="180"/>?
+  
   <h1>🎓 Análise e Desenvolvimento de Sistemas</h1>
   <h3>📖 Compilado de Estudos • Resumos • Anotações</h3>
 
@@ -39,5 +39,17 @@
 > 💡 *Os conteúdos serão adicionados ao longo da graduação.*
 
 ---
+---
 
-## 🗂️ Estrutura
+## 📬 Contato & Comunidade
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EWCXa9W2Rjp3hbxGR9IMjS)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dRmtV2tTMz)
+
+</div>
