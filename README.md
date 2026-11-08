@@ -41,7 +41,7 @@
 ---
 ---
 
-## 📬 Contato & Comunidade
+## 📬 Contato 
 
 <div align="center">
 
