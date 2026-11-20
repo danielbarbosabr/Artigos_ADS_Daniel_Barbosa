@@ -50,7 +50,7 @@ Os conteúdos são organizados por semestre e vão sendo adicionados conforme eu
 
 | 🗓️ Semestre | 📘 Disciplinas |
 |:---:|:---|
-| **1º** | Em breve |
+| **1º** | • Algoritmos e Programação<br>• Lógica Matemática<br>• Python |
 | **2º** | • Arquitetura Computacional<br>• Engenharia de Software<br>• Sistemas Operacionais |
 | **3º** | Em breve |
 | **4º** | Em breve |
