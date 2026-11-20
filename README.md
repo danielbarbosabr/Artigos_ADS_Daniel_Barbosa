@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=200&section=header&text=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Compilado%20de%20Estudos%20%E2%80%A2%20Resumos%20%E2%80%A2%20Anota%C3%A7%C3%B5es&descSize=16&descAlignY=58"/>
 
@@ -50,7 +50,7 @@ Os conteúdos são organizados por semestre e vão sendo adicionados conforme eu
 
 | 🗓️ Semestre | 📘 Disciplinas |
 |:---:|:---|
-| **1º** | • Algoritmos e Programação<br>• Lógica Matemática<br>• Python |
+| **1º** | • Algoritmos e Programação<br>• Lógica Matemática<br>• Introdução a Python |
 | **2º** | • Arquitetura Computacional<br>• Engenharia de Software<br>• Sistemas Operacionais |
 | **3º** | Em breve |
 | **4º** | Em breve |
