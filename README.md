@@ -55,6 +55,7 @@ Os conteúdos são organizados por semestre e vão sendo adicionados conforme eu
 | **3º** | Em breve |
 | **4º** | Em breve |
 | **5º** | Em breve |
+| **📂 Extra** | • Ética Computacional |
 
 > 💡 *Fique de olho: o repositório é atualizado ao longo de toda a graduação!*
 
